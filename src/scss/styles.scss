@@ -1,0 +1,8 @@
+/* only import the reboot and grid from Bootstrap */
+@import "bootstrap/bootstrap-reboot.scss";
+@import "bootstrap/bootstrap-grid.scss";
+
+@import "variables";
+@import "mixins";
+
+@import "base";

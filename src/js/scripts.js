@@ -1,0 +1,1 @@
+'src/js/_global.js'

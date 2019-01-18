@@ -1,0 +1,30 @@
+{
+  "name": "edible-franchise-fed",
+  "version": "1.0.0",
+  "description": "the static boilerplate front-end repo.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [],
+  "author": "Sagepath Inc",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.1",
+    "imagemin": "^6.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^6.0.0",
+    "run-sequence": "^2.2.1"
+  }
+}
